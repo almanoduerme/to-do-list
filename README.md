@@ -6,19 +6,15 @@ Welcome to the To-do List Application! This document provides you with essential
 
 The To-do List Application was developed using the following technologies:
 
-- **Node.js**: A JavaScript runtime that allows executing JavaScript code on the server-side. [Learn more](https://nodejs.org/es)
-
-- **Express.js**: A web application framework for Node.js that simplifies the creation of robust APIs and web applications. [Learn more](https://expressjs.com/es/)
-
-- **TypeScript**: A superset of JavaScript that adds static type checking and other features to enhance code quality and maintainability. [Learn more](https://www.typescriptlang.org/)
-
-- **Concurrently**: A utility that enables running multiple commands concurrently, often used for development setups. [Learn more](https://github.com/open-cli-tools/concurrently#readme)
-
-- **Mongoose**: An Object Data Modeling (ODM) library for MongoDB and Node.js, simplifying interactions with the MongoDB database. [Learn more](https://mongoosejs.com/)
-
-- **Dotenv**: A zero-dependency module that loads environment variables from a `.env` file into `process.env`. [Learn more](https://github.com/motdotla/dotenv#readme)
-
-- **Swagger**: A toolset for designing, building, and documenting RESTful APIs, providing both interactive documentation and client SDK generation. [Learn more](https://swagger.io/docs/)
+| Technologies      | URL                                                   |
+|-------------------|-------------------------------------------------------|
+| Node JS           |https://nodejs.org/es                                  |
+| Express JS        |https://expressjs.com/es/                              |
+| TypeScript        |https://www.typescriptlang.org/                        |
+| Concurrently      |https://github.com/open-cli-tools/concurrently#readme  |
+| Mongoose          |https://mongoosejs.com/                                |
+| Dotenv            |https://github.com/motdotla/dotenv#readme              |
+| Swagger           |https://swagger.io/docs/                               |
 
 ### Getting Started
 
